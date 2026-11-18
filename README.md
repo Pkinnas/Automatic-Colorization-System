@@ -6,6 +6,6 @@ The project uses the LAB color space, SLIC superpixel segmentation, and texture 
 
 The final model is used to colorize grayscale input images, producing RGB images that can be visualized alongside the extracted texture features.
 
-Technologies: Python
+**Technologies:** Python
 
-Dataset: https://www.kaggle.com/prasunroy/natural-images
+**Dataset:** https://www.kaggle.com/prasunroy/natural-images
